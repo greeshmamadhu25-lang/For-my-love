@@ -1,5 +1,5 @@
-const button = document.querySelector("button");
+document.getElementById("enterBtn").onclick = function(){
 
-button.addEventListener("click", function () {
     alert("Welcome to our little world ❤️");
-});
+
+};
