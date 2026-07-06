@@ -1,5 +1,5 @@
-document.getElementById("enterBtn").onclick = function(){
+document.getElementById("enterBtn").addEventListener("click", function () {
 
-    alert("Welcome to our little world ❤️");
+    window.location.href = "letters.html";
 
-};
+});
