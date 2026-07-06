@@ -167,3 +167,11 @@ min-height:320px;
 white-space:normal;
 
 }
+a.letter{
+    text-decoration:none;
+    color:inherit;
+}
+
+a.letter:hover{
+    color:inherit;
+}
