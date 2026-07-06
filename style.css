@@ -156,3 +156,14 @@ transform:scale(1.08);
 background:#ff2d7a;
 
 }
+#typing{
+
+font-size:20px;
+
+line-height:1.8;
+
+min-height:320px;
+
+white-space:normal;
+
+}
